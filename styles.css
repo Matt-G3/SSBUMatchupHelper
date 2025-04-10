@@ -21,6 +21,7 @@ div.outerDiv {
     background-color: white;
     height: 900px;
     opacity: 0.8;
+    border-radius: 2px;
 }
 div.innerDiv{
     border-radius: 5px;
@@ -41,6 +42,15 @@ h1.sigma{
 div.infoDiv{
     height: 80px;
     background-color: darkblue;
+}
+div.imageDisplay{
+    margin: 0 auto;
+    opacity: 2;
+}
+img {
+    height:120px;
+    margin:0 auto;
+
 }
 body {
     background-image: url("./images/background.jpg");
