@@ -35,6 +35,17 @@ input[type="text"] {
     margin : 0 auto;
     font-style: normal;
 }
+button {
+    display: block;
+    margin : 0 auto;
+    font-style: normal;
+}
+img.centeredImage {
+    display: inline-block;
+    margin: 0 auto;
+    font-style: normal;
+
+}
 h1.sigma{
     font-size: 20px;
 }
@@ -46,11 +57,15 @@ div.infoDiv{
 div.imageDisplay{
     margin: 0 auto;
     opacity: 2;
+    text-align: center;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
 }
 img {
     height:120px;
     margin:0 auto;
-
 }
 body {
     background-image: url("./images/background.jpg");

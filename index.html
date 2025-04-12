@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Matchup Learner</title>
+    <title>Matchup Helper</title>
     <link href ='./styles.css' rel="stylesheet">
     <link rel ="shortcut icon" type ="image" href="./images/icon.png">
 </head>
@@ -17,9 +17,10 @@
                 Input a Character
             </h1>
         </div>
-        <div>
+        <div style="margin: auto;">
             <label for = "character"></label>
             <input type="text" id="character" name="character" list ="characters" >
+            <button id="search" style="text-align: center;margin:0 auto;">Find Matchups</button>
             <datalist id = "characters">
                 <option value="Banjo & Kazooie"></option>
                 <option value="Bayonetta"></option>
@@ -27,7 +28,6 @@
                 <option value="Bowser Jr."></option>
                 <option value="Byleth"></option>
                 <option value="Captain Falcon"></option>
-                <option value="Charizard"></option>
                 <option value="Chrom"></option>
                 <option value="Cloud"></option>
                 <option value="Corrin"></option>
@@ -48,7 +48,6 @@
                 <option value="Incineroar"></option>
                 <option value="Inkling"></option>
                 <option value="Isabelle"></option>
-                <option value="Ivysaur"></option>
                 <option value="Jigglypuff"></option>
                 <option value="Joker"></option>
                 <option value="Kazuya"></option>
@@ -82,6 +81,7 @@
                 <option value="Pikachu"></option>
                 <option value="Piranha Plant"></option>
                 <option value="Pit"></option>
+                <option value="Pokemon Trainer"></option>
                 <option value="Pyra"></option>
                 <option value="Richter"></option>
                 <option value="Ridley"></option>
@@ -98,7 +98,7 @@
                 <option value="Snake"></option>
                 <option value="Sonic"></option>
                 <option value="Sora"></option>
-                <option value="Squirtle"></option>
+
                 <option value="Steve"></option>
                 <option value="Terry"></option>
                 <option value="Toon Link"></option>
@@ -116,15 +116,17 @@
         <p id="display">
 
         </p>
-        <div id="maps" class="imageDisplay">
-            <img id="map1" alt="the best map" title="" hidden="hidden" src=""/>
-            <img id="map2" alt="second best map" title="" hidden="hidden" src=""/>
-            <img id="map3" alt="third best map" title="" hidden="hidden" src=""/>
+        <div id="maps" class="imageDisplay" hidden = "hidden">
+            <p>Top Counter Maps</p>
+            <img id="map1" alt="the best map" title=""  src="" class="centeredImage"/>
+            <img id="map2" alt="second best map" title=""  src="" class="centeredImage"/>
+            <img id="map3" alt="third best map" title=""  src="" class="centeredImage"/>
         </div>
-        <div id="counterCharacters" class="imageDisplay">
-            <img id="character1" alt="the best character" title="" hidden="hidden" src=""/>
-            <img id="character2" alt="second best character" title="" hidden="hidden" src=""/>
-            <img id="character3" alt="third best character" title="" hidden="hidden" src=""/>
+        <div id="counterCharacters" class="imageDisplay" hidden = "hidden">
+            <p>Top Counter Characters</p>
+            <img id="character1" alt="the best character" title=""  src="" class="centeredImage"/>
+            <img id="character2" alt="second best character" title=""  src="" class="centeredImage"/>
+            <img id="character3" alt="third best character" title="" src="" class="centeredImage"/>
         </div>
 
     </div>
