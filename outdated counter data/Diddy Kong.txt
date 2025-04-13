@@ -1,0 +1,6 @@
+Steve
+0.3639
+Pac-Man
+0.3729
+Isabelle
+0.3957

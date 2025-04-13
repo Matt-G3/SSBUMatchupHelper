@@ -1,0 +1,6 @@
+Simon Belmont
+0.3425
+R.O.B.
+0.3502
+Richter
+0.3518

@@ -1,0 +1,6 @@
+Richter
+0.312
+Duck Hunt
+0.3146
+Luigi
+0.334

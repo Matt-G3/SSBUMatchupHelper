@@ -1,0 +1,172 @@
+Min Min
+0.3819
+Richter
+0.3884
+Bayonetta
+0.405
+Duck Hunt
+0.4168
+Steve
+0.4231
+Simon Belmont
+0.4522
+Olimar
+0.4554
+Snake
+0.4587
+Ike
+0.46
+Wii Fit Trainer
+0.4601
+Ryu
+0.4673
+Dark Samus
+0.4719
+R.O.B.
+0.4722
+Mii Swordfighter
+0.4744
+Ken
+0.4746
+Donkey Kong
+0.4747
+Mii Gunner
+0.4825
+Dr. Mario
+0.4838
+Zero Suit Samus
+0.4847
+Meta Knight
+0.4853
+Zelda
+0.4854
+Palutena
+0.4857
+Robin
+0.4868
+King Dedede
+0.4885
+Sonic
+0.493
+Rosalina
+0.497
+Terry
+0.4984
+Samus
+0.5
+Mega Man
+0.5018
+Banjo-Kazooie
+0.5073
+Diddy Kong
+0.5093
+Luigi
+0.5104
+Mr. Game & Watch
+0.511
+Greninja
+0.5114
+Isabelle
+0.5129
+Bowser Jr.
+0.5156
+Hero
+0.5157
+Kazuya
+0.5185
+Ness
+0.5197
+King K. Rool
+0.5273
+Cloud
+0.5306
+Ganondorf
+0.5324
+Pokemon Trainer
+0.5395
+Peach
+0.5396
+Yoshi
+0.5412
+Captain Falcon
+0.5415
+Roy
+0.5425
+Lucario
+0.5429
+Toon Link
+0.546
+Pit
+0.5466
+Chrom
+0.5468
+Mario
+0.5489
+Wario
+0.5493
+Daisy
+0.5503
+Shulk
+0.5506
+Bowser
+0.5522
+Ice Climbers
+0.5541
+Pac-Man
+0.5543
+Sephiroth
+0.5545
+Little Mac
+0.5556
+Pikachu
+0.5567
+Pichu
+0.559
+Inkling
+0.5591
+Mewtwo
+0.5594
+Young Link
+0.5602
+Villager
+0.5612
+Pyra & Mythra
+0.5672
+Wolf
+0.5684
+Piranha Plant
+0.5693
+Ridley
+0.5693
+Link
+0.5787
+Incineroar
+0.5789
+Jigglypuff
+0.5812
+Lucas
+0.584
+Dark Pit
+0.5923
+Joker
+0.599
+Falco
+0.5991
+Lucina
+0.603
+Marth
+0.605
+Corrin
+0.6077
+Random Character
+0.6144
+Kirby
+0.6249
+Sheik
+0.6292
+Byleth
+0.6364
+Fox
+0.6413
+Mii Brawler
+0.6514

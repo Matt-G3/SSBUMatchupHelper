@@ -1,0 +1,6 @@
+Random Character
+0.6992
+Ice Climbers
+0.3135
+Luigi
+0.33

@@ -1,0 +1,6 @@
+Richter
+0.2531
+Simon Belmont
+0.2927
+Mega Man
+0.3008

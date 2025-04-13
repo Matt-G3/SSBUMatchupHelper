@@ -1,0 +1,6 @@
+Simon Belmont
+0.4085
+Snake
+0.4167
+Richter
+0.4202

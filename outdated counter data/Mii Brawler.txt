@@ -1,0 +1,6 @@
+Ryu
+0.3258
+Samus
+0.3486
+Ice Climbers
+0.3525

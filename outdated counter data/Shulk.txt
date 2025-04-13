@@ -1,0 +1,6 @@
+Snake
+0.3645
+Bowser Jr.
+0.4149
+Dark Samus
+0.4154

@@ -1,0 +1,6 @@
+Ice Climbers
+0.4255
+Simon Belmont
+0.4727
+Duck Hunt
+0.4821

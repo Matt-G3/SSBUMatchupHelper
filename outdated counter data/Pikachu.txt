@@ -1,0 +1,6 @@
+Steve
+0.3684
+Bayonetta
+0.3791
+Ryu
+0.3793

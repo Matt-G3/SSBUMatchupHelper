@@ -1,0 +1,6 @@
+Richter
+0.3967
+Robin
+0.3971
+Simon Belmont
+0.4063

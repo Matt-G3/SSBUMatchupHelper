@@ -1,0 +1,6 @@
+Richter
+0.3665
+Zelda
+0.42
+Bayonetta
+0.4251

@@ -1,0 +1,6 @@
+Snake
+0.4448
+Diddy Kong
+0.4566
+Lucario
+0.4598

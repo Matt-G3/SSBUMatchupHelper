@@ -1,0 +1,6 @@
+Kazuya
+0.8421
+Bayonetta
+0.3118
+Snake
+0.3365

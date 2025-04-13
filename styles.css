@@ -16,12 +16,14 @@ div.inputBox{
     margin: 0 auto;
 }
 div.outerDiv {
+    height:100%;
     margin: 0 auto;
     border: 1px solid black;
     background-color: white;
-    height: 900px;
+    height: 100%;
     background-color: rgba(255, 255, 255, .5);
     border-radius: 2px;
+    padding:20px;
 }
 div.innerDiv{
     border-radius: 5px;
@@ -35,7 +37,7 @@ input[type="text"] {
     margin : 0 auto;
     font-style: normal;
 }
-button {
+button.searchButton {
     display: block;
     margin : 0 auto;
     font-style: normal;
@@ -60,14 +62,35 @@ div.imageDisplay{
     text-align: center;
     width: 400px;
     border: 1px solid black;
-    border-radius: 5px;
+    border-bottom-width: 1px;
+    border-radius: 1px;
     background-color: white;
 }
 img {
     height:120px;
     margin:0 auto;
 }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width:100%;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
 body {
-    background-image: url("./images/background.jpg");
+    background-color: deepskyblue;
     margin: 20px;
+}
+table.extraDisplay {
+    margin: 0 auto;
+    display: block;
 }

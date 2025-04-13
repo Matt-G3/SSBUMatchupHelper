@@ -7,6 +7,7 @@
 </head>
 
 <body>
+    <a style="color: aliceblue;" href="./about.html">Disclaimer</a>
     <div class="outerDiv">
         <br><br>
         <div>
@@ -20,9 +21,9 @@
         <div style="margin: auto;">
             <label for = "character"></label>
             <input type="text" id="character" name="character" list ="characters" >
-            <button id="search" style="text-align: center;margin:0 auto;">Find Matchups</button>
+            <button class="searchButton" id="search" style="text-align: center;margin:0 auto;">Find Matchups</button>
             <datalist id = "characters">
-                <option value="Banjo & Kazooie"></option>
+                <option value="Banjo Kazooie"></option>
                 <option value="Bayonetta"></option>
                 <option value="Bowser"></option>
                 <option value="Bowser Jr."></option>
@@ -94,7 +95,7 @@
                 <option value="Sephiroth"></option>
                 <option value="Sheik"></option>
                 <option value="Shulk"></option>
-                <option value="Simon"></option>
+                <option value="Simon Belmont"></option>
                 <option value="Snake"></option>
                 <option value="Sonic"></option>
                 <option value="Sora"></option>
@@ -121,12 +122,38 @@
             <img id="map1" alt="the best map" title=""  src="" class="centeredImage"/>
             <img id="map2" alt="second best map" title=""  src="" class="centeredImage"/>
             <img id="map3" alt="third best map" title=""  src="" class="centeredImage"/>
+            <br>
+            <button id="showTable2">Show</button>
+            <div id="mapTableHolder" hidden="hidden">
+                <table id="extraMapsTable" class="extraDisplay">
+                    <thead>
+                    <tr>
+                        <th>Character</th>
+                        <th>Win Chance</th>
+                    </tr>
+                    </thead>
+
+                </table>
+            </div>
         </div>
         <div id="counterCharacters" class="imageDisplay" hidden = "hidden">
-            <p>Top Counter Characters</p>
+            <p>Best Counter Characters</p>
             <img id="character1" alt="the best character" title=""  src="" class="centeredImage"/>
             <img id="character2" alt="second best character" title=""  src="" class="centeredImage"/>
             <img id="character3" alt="third best character" title="" src="" class="centeredImage"/>
+            <br>
+            <button id="showTable1">Show</button>
+            <div id="charTableHolder" hidden="hidden">
+                <table id="extraCharactersTable" class="extraDisplay">
+                    <thead>
+                    <tr>
+                        <th>Character</th>
+                        <th>Win Chance</th>
+                    </tr>
+                    </thead>
+
+                </table>
+            </div>
         </div>
 
     </div>

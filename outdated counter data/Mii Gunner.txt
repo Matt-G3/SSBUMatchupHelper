@@ -1,0 +1,6 @@
+Simon Belmont
+0.3563
+Richter
+0.3608
+Steve
+0.4096

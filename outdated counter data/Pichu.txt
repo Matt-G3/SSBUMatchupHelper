@@ -1,0 +1,6 @@
+Pac-Man
+0.3102
+Simon Belmont
+0.3357
+Ice Climbers
+0.3602

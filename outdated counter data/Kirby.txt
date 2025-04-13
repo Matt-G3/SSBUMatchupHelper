@@ -1,0 +1,6 @@
+Snake
+0.3202
+Richter
+0.3289
+Luigi
+0.3374

@@ -1,0 +1,6 @@
+Sheik
+0.664
+Richter
+0.3356
+Simon Belmont
+0.3671

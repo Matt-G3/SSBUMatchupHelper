@@ -1,0 +1,6 @@
+Sheik
+0.6333
+Richter
+0.3606
+Duck Hunt
+0.3804

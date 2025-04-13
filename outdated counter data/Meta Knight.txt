@@ -1,0 +1,6 @@
+Isabelle
+0.3617
+Bayonetta
+0.375
+Ice Climbers
+0.3841

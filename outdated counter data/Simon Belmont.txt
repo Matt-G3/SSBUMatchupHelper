@@ -1,0 +1,6 @@
+Bayonetta
+0.425
+Zero Suit Samus
+0.4627
+Mega Man
+0.4643

@@ -1,0 +1,6 @@
+Kazuya
+0.6418
+Simon Belmont
+0.3115
+Zelda
+0.3609
